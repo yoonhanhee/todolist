@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todolist/hanhee/build/index.html/static/css/main.03ae1b16.css",
+    "main.js": "/todolist/hanhee/build/index.html/static/js/main.96109f6b.js",
+    "index.html": "/todolist/hanhee/build/index.html/index.html",
+    "main.03ae1b16.css.map": "/todolist/hanhee/build/index.html/static/css/main.03ae1b16.css.map",
+    "main.96109f6b.js.map": "/todolist/hanhee/build/index.html/static/js/main.96109f6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03ae1b16.css",
+    "static/js/main.96109f6b.js"
+  ]
+}
